@@ -14,8 +14,8 @@ modules:
     buildsystem: cmake-ninja
     sources:
       - type: archive
-        url: https://codeberg.org/JakobDev/jdPixelUpscaler/archive/1.4.tar.gz
-        sha256: e1a7eb547cd62bce82dd267ece64bf74a2caadb6454b9089e5c95b4de29d7ee8
+        url: https://codeberg.org/JakobDev/jdPixelUpscaler/archive/1.5.tar.gz
+        sha256: 532da150163bbe789cfaa834b907bc096c56dd395898faa1ffb4496d3387ff46
         x-checker-data:
           type: json
           url: https://codeberg.org/api/v1/repos/JakobDev/jdPixelUpscaler/releases/latest
